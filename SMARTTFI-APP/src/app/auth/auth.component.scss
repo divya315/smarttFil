@@ -1,0 +1,24 @@
+:host {
+    display: flex;
+    justify-content: center;
+    // margin: 100px 0px;
+    min-height: 1000px;
+    background-image: url('../../assets/images/smart-iot.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0px;
+  }
+
+body,html{
+    height:100%;
+}
+#example {
+    top: 50%;
+    left: 50%;
+    margin-top: -9em;
+    margin-left: -15em;
+    
+    position: fixed;
+  }

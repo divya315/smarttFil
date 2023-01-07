@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smarttfiapp-dev-103203-authRole",
+      "UnauthRoleArn": "arn:aws:iam::185763716595:role/amplify-smarttfiapp-dev-103203-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::185763716595:role/amplify-smarttfiapp-dev-103203-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-smarttfiapp-dev-103203-deployment",
+      "UnauthRoleName": "amplify-smarttfiapp-dev-103203-unauthRole",
+      "StackName": "amplify-smarttfiapp-dev-103203",
+      "StackId": "arn:aws:cloudformation:ap-south-1:185763716595:stack/amplify-smarttfiapp-dev-103203/8771a310-8e76-11ed-affd-0abca92d38c6",
+      "AmplifyAppId": "d2r205uwn6n6qd"
+    },
+    "categories": {
+      "api": {
+        "smarttfiapp": {}
+      },
+      "auth": {
+        "smarttfiappe9ac6705": {}
+      }
+    }
+  }
+}
